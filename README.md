@@ -1,5 +1,7 @@
 # Book Depository
 
+[![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gprzy/book-depository/blob/main/book_depository.ipynb)
+
 This repository is a challenge for the Junior Data Engineer position. For that, crossings, merges and transformations will be carried out in the data, in order to answer some questions and extract some insights from the book depository dataset.
 
 Data source: https://www.kaggle.com/sp1thas/book-depository-dataset
